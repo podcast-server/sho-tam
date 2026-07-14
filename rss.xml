@@ -5,13 +5,13 @@
     <description>Новини &amp; Шоубіз</description>
     <link>https://github.com/podcast-server/sho-tam</link>
     <language>uk</language>
-    <lastBuildDate>Tue, 14 Jul 2026 19:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 19:36:05 GMT</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/podcast-server/sho-tam/main/images/cover.png"/>
     <itunes:author>ШО ТАМ?</itunes:author>
     <itunes:summary>Новини &amp; Шоубіз</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:email></itunes:email>
-    <itunes:keywords>Новини</itunes:keywords>
+    <itunes:keywords>News</itunes:keywords>
   </channel>
 </rss>
