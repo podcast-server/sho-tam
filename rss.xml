@@ -22,5 +22,14 @@
     <guid>https://raw.githubusercontent.com/podcast-server/sho-tam/main/audio/episode-1784157688838.mp3</guid>
     <itunes:image href="https://raw.githubusercontent.com/podcast-server/sho-tam/main/images/cover.png"/>
   </item>
+  
+  <item>
+    <title>2</title>
+    <description>2</description>
+    <enclosure url="https://raw.githubusercontent.com/podcast-server/sho-tam/main/audio/NdpisYY0w4NNPKW.mp3" length="0" type="audio/mpeg"/>
+    <pubDate>Wed, 15 Jul 2026 23:51:06 GMT</pubDate>
+    <guid>https://raw.githubusercontent.com/podcast-server/sho-tam/main/audio/NdpisYY0w4NNPKW.mp3</guid>
+    <itunes:image href="https://raw.githubusercontent.com/podcast-server/sho-tam/main/images/cover.png"/>
+  </item>
   </channel>
 </rss>
