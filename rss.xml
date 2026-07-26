@@ -5,7 +5,7 @@
     <description>Новини &amp; Шоубіз</description>
     <link></link>
     <language>uk</language>
-    <lastBuildDate>Sun, 26 Jul 2026 23:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 23:40:26 GMT</lastBuildDate>
     <itunes:image href="https://raw.githubusercontent.com/podcast-server/sho-tam/main/images/cover.png"/>
     <itunes:author>ШО ТАМ?</itunes:author>
     <itunes:summary>Новини &amp; Шоубіз</itunes:summary>
@@ -16,7 +16,16 @@
   
   
   
+  
   <item>
+    <title>Test</title>
+    <description>Test</description>
+    <enclosure url="https://raw.githubusercontent.com/podcast-server/sho-tam/main/audio/LidjOfOr4Kn9XGp.mp3" length="0" type="audio/mpeg"/>
+    <pubDate>Sun, 26 Jul 2026 23:40:26 GMT</pubDate>
+    <guid isPermaLink="false">e9263139-ca59-425d-9182-5e39e9443f1d</guid>
+    <itunes:image href="https://raw.githubusercontent.com/podcast-server/sho-tam/main/images/cover.png"/>
+  </item>  
+<item>
     <title>1</title>
     <description>2</description>
     <enclosure url="https://raw.githubusercontent.com/podcast-server/sho-tam/main/audio/mms8ROVV5zrZmz2.mp3" length="0" type="audio/mpeg"/>
